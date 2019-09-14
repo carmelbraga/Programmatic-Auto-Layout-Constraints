@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E0EEE85232C383700A083C0 /* lfa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1E0EEE84232C383700A083C0 /* lfa.jpg */; };
 		1E84ADAF232C302600FF7796 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E84ADAE232C302600FF7796 /* AppDelegate.swift */; };
 		1E84ADB1232C302600FF7796 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E84ADB0232C302600FF7796 /* ViewController.swift */; };
 		1E84ADB4232C302600FF7796 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E84ADB2232C302600FF7796 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1E0EEE84232C383700A083C0 /* lfa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = lfa.jpg; path = ../../lfa.jpg; sourceTree = "<group>"; };
 		1E84ADAB232C302600FF7796 /* Programmatic Auto Layout Constraints.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Programmatic Auto Layout Constraints.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E84ADAE232C302600FF7796 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1E84ADB0232C302600FF7796 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 		1E84ADAD232C302600FF7796 /* Programmatic Auto Layout Constraints */ = {
 			isa = PBXGroup;
 			children = (
+				1E0EEE84232C383700A083C0 /* lfa.jpg */,
 				1E84ADAE232C302600FF7796 /* AppDelegate.swift */,
 				1E84ADB0232C302600FF7796 /* ViewController.swift */,
 				1E84ADB2232C302600FF7796 /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E84ADB9232C302C00FF7796 /* LaunchScreen.storyboard in Resources */,
+				1E0EEE85232C383700A083C0 /* lfa.jpg in Resources */,
 				1E84ADB6232C302C00FF7796 /* Assets.xcassets in Resources */,
 				1E84ADB4232C302600FF7796 /* Main.storyboard in Resources */,
 			);
